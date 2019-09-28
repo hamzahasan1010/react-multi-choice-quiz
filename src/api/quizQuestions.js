@@ -1,6 +1,6 @@
 var quizQuestions = [
   {
-      question: "What is your view on universal healthcare?",
+      question: "What is your view on universal  healthcare?",
       answers: [
           {
               type: "Liberal",
