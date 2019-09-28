@@ -1,86 +1,86 @@
 var quizQuestions = [
   {
-      question: "What franchise would you rather play a game from?",
+      question: "What is your view on universal healthcare?",
       answers: [
           {
-              type: "Microsoft",
-              content: "Halo"
+              type: "Liberal",
+              content: "Universal healthcare, no private insurance"
           },
           {
-              type: "Nintendo",
-              content: "Pokemon"
+              type: "Independant",
+              content: "Universal healthcare, with private insurance"
           },
           {
-              type: "Sony",
-              content: "Uncharted"
+              type: "Conservative",
+              content: "no universal healthcare, private insurance only"
           }
       ]
   },
   {
-      question: "Which console would you prefer to play with friends?",
+      question: "What is your view on immigration?",
       answers: [
           {
-              type: "Microsoft",
-              content: "X-Box"
+              type: "Liberal",
+              content: "Open immigration"
           },
           {
-              type: "Nintendo",
-              content: "Nintendo 64"
+              type: "Independant",
+              content: "Immigration should compensate for low birth rate"
           },
           {
-              type: "Sony",
-              content: "Playstation 1"
+              type: "Conservative",
+              content: "No immigration"
           }
       ]
   },
   {
-      question: "Which of these racing franchises would you prefer to play a game from?",
+      question: "What is your view on taxes?",
       answers: [
           {
-              type: "Microsoft",
-              content: "Forza"
+              type: "Liberal",
+              content: "Tax cuts for low income and middle class"
           },
           {
-              type: "Nintendo",
-              content: "Mario Kart"
+              type: "Independant",
+              content: "Keep taxes the same"
           },
           {
-              type: "Sony",
-              content: "Gran Turismo"
+              type: "Conservative",
+              content: "Lower taxes for 1% and raise taxes for 99%"
           }
       ]
   },
   {
-      question: "Which of these games do you think is best?",
+      question: "What is your view on gun control?",
       answers: [
           {
-              type: "Microsoft",
-              content: "BioShock"
+              type: "Liberal",
+              content: "Background checks & permits should be required"
           },
           {
-              type: "Nintendo",
-              content: "The Legend of Zelda: Ocarina of Time"
+              type: "Independent",
+              content: "Keep gun laws the same"
           },
           {
-              type: "Sony",
-              content: "Final Fantasy VII"
+              type: "Conservative",
+              content: "Guns should be easily accessible"
           }
       ]
   },
   {
-      question: "What console would you prefer to own?",
+      question: "What is your view on for-profit prisons?",
       answers: [
           {
-              type: "Microsoft",
-              content: "X-Box One"
+              type: "Liberal",
+              content: "All prisons should be not-for-profit and run by the government"
           },
           {
-              type: "Nintendo",
-              content: "Wii U"
+              type: "Independent",
+              content: "For-profit prisons should be regulated"
           },
           {
-              type: "Sony",
-              content: "Playstation 4"
+              type: "Conservative",
+              content: "For profit prisons should be regulated less"
           }
       ]
   }
